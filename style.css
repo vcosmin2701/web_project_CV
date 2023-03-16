@@ -1,3 +1,19 @@
-p {
-    color: yellowgreen;
+body {
+    background-color: olivedrab;
+}
+
+.content {
+    max-width: 1600px;
+    margin: auto;
+    background-color: white;
+}
+
+.table-content {
+    grid-template-columns: 2fr 1fr 1fr;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    text-align: center;
 }
