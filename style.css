@@ -87,7 +87,7 @@ body {
 
 .custom-font {
     font-size: 18px;
-    color: white;
+    color: rgb(237, 233, 213);
     font-family: sans-serif;
 }
 
@@ -140,6 +140,18 @@ a {
 
 p-align-center {
     text-align: center;
+}
+
+.color-palette-1 {
+    background-color: rgb(223, 120, 87);
+}
+
+.color-palette-2 {
+    background-color: rgb(231, 171, 154);
+}
+
+.color-palette-3{
+    background-color: rgb(237, 233, 213)
 }
 
 
