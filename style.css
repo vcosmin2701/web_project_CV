@@ -38,10 +38,31 @@ body {
     padding-right: 20px;
 }
 
-.line-width-height {
+.line-width-height-1 {
     background-color: bisque;
     width: 5px;
-    height: 100px;
+    height: 130px;
+    border-radius: 10px;
+}
+
+.line-width-height-2 {
+    background-color: bisque;
+    width: 5px;
+    height: 410px;
+    border-radius: 10px;
+}
+
+.line-width-height-3 {
+    background-color: bisque;
+    width: 5px;
+    height: 420px;
+    border-radius: 10px;
+}
+
+.line-width-height-4 {
+    background-color: bisque;
+    width: 5px;
+    height: 250px;
     border-radius: 10px;
 }
 
@@ -113,9 +134,12 @@ a {
     height: 20px;
 }
 
-.table-padding-pika-25 {
-    padding-left: 250px;
+.table-width-pika-25 {
+    width: 1000px;
 }
 
+p-align-center {
+    text-align: center;
+}
 
 
