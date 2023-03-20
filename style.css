@@ -2,11 +2,16 @@ body {
     background-color:rgb(147, 155, 98);
 }
 
-/* --Table custom modifications section-- */
 .table-center {
    margin-left: auto;
    margin-right: auto;
 }
+
+.table-center-languages {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+ }
 
 .custom-td {
     width: 150px;
@@ -15,13 +20,11 @@ body {
 
 .custom-td1 {
     width: 400px;
-    /*background-color: rgb(67, 91, 186);*/
     padding-left: 15px;
 }
 
 .custom-td2 {
     width: 400px;
-    /*background-color: rgb(212, 207, 105);*/
 }
 
 .custom-td3 {
@@ -32,6 +35,7 @@ body {
 .content-td-side {
     width: 300px;
     height: 100px;
+    padding-right: 20px;
 }
 
 .line-width-height {
@@ -43,6 +47,7 @@ body {
 
 .content-td-mid {
     width: 660.3px;
+    overflow-x: auto;
 }
 
 /* --Table custom modifications section-- */
@@ -80,5 +85,37 @@ br {
 .center-color-text-category {
     text-align: center;
     color: aliceblue;
+    font-size: 18px;
 }
+
+.custom-text-formatting {
+    font-size: 14px;
+    color: white;
+    font-family: sans-serif;
+}
+
+ul{
+    list-style-image: url(images/gears-solid.svg);
+}
+
+.center-social{
+    padding-left: 100px;
+    margin:auto;
+}
+
+a {
+    color: white;
+}
+
+
+.img-pikachu{
+    width: 30px;
+    height: 20px;
+}
+
+.table-padding-pika-25 {
+    padding-left: 250px;
+}
+
+
 
