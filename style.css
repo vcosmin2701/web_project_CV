@@ -1,5 +1,9 @@
 body {
-    background-color: rgb(0, 51, 124);
+    background-image: url(/images/space.png);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .table-center {
@@ -39,28 +43,28 @@ body {
 }
 
 .line-width-height-1 {
-    background-color: rgb(247, 200, 224);
+    background-color: rgb(255, 255, 255);
     width: 5px;
     height: 130px;
     border-radius: 10px;
 }
 
 .line-width-height-2 {
-    background-color: rgb(247, 200, 224);
+    background-color: rgb(255, 255, 255);
     width: 5px;
     height: 410px;
     border-radius: 10px;
 }
 
 .line-width-height-3 {
-    background-color: rgb(247, 200, 224);
+    background-color: rgb(255, 255, 255);
     width: 5px;
     height: 420px;
     border-radius: 10px;
 }
 
 .line-width-height-4 {
-    background-color: rgb(247, 200, 224);
+    background-color: rgb(255, 255, 255);
     width: 5px;
     height: 250px;
     border-radius: 10px;
@@ -154,11 +158,11 @@ p-align-center {
 
 .color-palette-1 {
     background-color: rgb(99, 153, 239);
+    opacity: 0.9;
     border-radius: 20%;
 }
 
 .color-palette-2 {
-    background-color: rgb(210, 163, 109);
     border-radius: 10px;
 }
 
